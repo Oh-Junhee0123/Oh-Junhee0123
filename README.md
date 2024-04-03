@@ -1,7 +1,7 @@
 # Junhee Oh
 
 <div align="center">
-🏷️Developer🏷️Consultant🏷️CSMS(Cybersecurity Management System)🏷️SUMS(Software Update Management System) 🏷️TARA(Threat Analysis and Risk Assessment)
+🏷️Developer🏷️Consultant<br/>🏷️CSMS(Cybersecurity Management System)🏷️SUMS(Software Update Management System)<br/>🏷️TARA(Threat Analysis and Risk Assessment)
 </div>
 
 ## Education
