@@ -4,7 +4,7 @@
 </div>
 </br>
 <div align="center">
-🏷️Developer🏷️Consultant<br/>🏷️CSMS(Cybersecurity Management System)🏷️SUMS(Software Update Management System)<br/>🏷️TARA(Threat Analysis and Risk Assessment)
+  <p>🏷️Developer🏷️Consultant<br/>🏷️CSMS(Cybersecurity Management System)🏷️SUMS(Software Update Management System)<br/>🏷️TARA(Threat Analysis and Risk Assessment)</p>
 </div>
 
 ## Education
