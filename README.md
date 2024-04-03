@@ -1,4 +1,4 @@
-# Hello, I'm Junhee Oh
+# Junhee Oh
 
 ## Education
 
