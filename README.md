@@ -4,6 +4,8 @@
 </div>
 </br>
 <div align="center">
+  <p style="text-align: center; color: Black; text-decoration : underline;">🏷️Developer
+  </p>
 🏷️Developer🏷️Consultant<br/>🏷️CSMS(Cybersecurity Management System)🏷️SUMS(Software Update Management System)<br/>🏷️TARA(Threat Analysis and Risk Assessment)
 </div>
 
