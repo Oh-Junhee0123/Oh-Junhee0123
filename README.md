@@ -1,6 +1,6 @@
 # Junhee Oh
 <div align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFDD9E&title_bg=%23FF7D8A&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Oh-Junhee0123"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFDD9E&title_bg=%23FF7D8A&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </div>
 </br>
 <div align="center">
