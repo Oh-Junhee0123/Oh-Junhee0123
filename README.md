@@ -9,6 +9,6 @@
 
 ## Education
 
-- <del><i><b>Doctor of Philosophy (Ph.D.) in Department of Computer Science and Automotive Cyber ​​Security, Dankook University</b></i> (2024~)</del>
-- <i><b>Master’s Degree in Department of Computer Science and Cyber ​​Security, Dankook University</b></i> (2022~2024)
-- <i><b>Bachelor’s Degree in Software, Dankook University</b></i> (2017~2022)
+- <del><i><b>Doctor of Philosophy (Ph.D.) in Department of Computer Science and Automotive Cyber ​​Security, Dankook University</b></i> (2024.03.~2024.06.)</del>
+- <i><b>Master’s Degree in Department of Computer Science and Cyber ​​Security, Dankook University</b></i> (2022.03.~2024.02.)
+- <i><b>Bachelor’s Degree in Software, Dankook University</b></i> (2017.03.~2022.02.)
